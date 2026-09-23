@@ -1,0 +1,8 @@
+{
+  "name": "Apex Lead Tracker",
+  "description": "Lead capture and pipeline tracking tool for client inquiries, follow-up scheduling, and conversion stages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

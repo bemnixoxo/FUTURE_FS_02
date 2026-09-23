@@ -1,0 +1,17 @@
+[
+  {
+    "id": "usr_admin_01",
+    "email": "admin@apexcrm.io",
+    "name": "Sarah Jenkins",
+    "role": "admin",
+    "avatarUrl": "/src/assets/images/admin_avatar_1790137823737.jpg"
+  },
+  {
+    "id": "usr_1790140548307",
+    "email": "alex@agency.com",
+    "name": "Alex Rivera",
+    "role": "admin",
+    "password": "secretpassword",
+    "avatarUrl": "/src/assets/images/admin_avatar_1790137823737.jpg"
+  }
+]
